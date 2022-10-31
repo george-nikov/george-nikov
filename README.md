@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on internship and junior programs.
 - 📫 My email is: nikov.george@gmail.com
-- 📱 LinkedIn: https://www.linkedin.com/in/georgi-nikov
+- 📱 My LinkedIn is: https://www.linkedin.com/in/georgi-nikov
 - ✨ My Website is: https://411-academy.com/georginikov/
 
 <!---
