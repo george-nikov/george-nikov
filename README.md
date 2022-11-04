@@ -6,7 +6,4 @@
 - 📱 My LinkedIn is: https://www.linkedin.com/in/georgi-nikov
 - ✨ My Website is: https://411-academy.com/georginikov/
 
-<!---
-george-nikov/george-nikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![trophy](https://github-profile-trophy.vercel.app/?username=kattni)
