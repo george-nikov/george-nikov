@@ -6,5 +6,5 @@
 - 📱 My LinkedIn is: https://www.linkedin.com/in/georgi-nikov
 - ✨ My Website is: https://411-academy.com/georginikov/
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=george-nikov&border_radius=)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=george-nikov&border_radius=)](https://github.com/george-nikov)
 ![trophy](https://github-profile-trophy.vercel.app/?username=kattni)
