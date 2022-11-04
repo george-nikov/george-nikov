@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @george-nikov
+- 👋 Hi, I’m Georgi Nikov
 - 👀 I’m interested in Programming and Tech. 
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on internship and junior programs.
